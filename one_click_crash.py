@@ -18,7 +18,7 @@ import time
 # ============================================================
 # CONFIGURATION
 # ============================================================
-INPUT_VIDEO = "NORMAL_VIDEO.mp4"          # Must exist in same folder
+INPUT_VIDEO = "lv_0_20260503222753.mp4"          # Must exist in same folder
 OUTPUT_DIR = "buffered_videos"
 OUTPUT_NAME = "buffered_crash.mp4"
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, OUTPUT_NAME)
